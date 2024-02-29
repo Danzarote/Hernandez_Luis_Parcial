@@ -40,7 +40,7 @@ const Form = () => {
             setInfo({ ...info, libro: evento.target.value })
           }
         ></input>
-        <button>Enviar</button>
+        <button type="submit">Enviar</button>
       </form>
       {mostrar ? (
         <>
