@@ -1,0 +1,14 @@
+.contenedor {
+  display: flex;
+  background-color: rgb(98, 95, 95);
+  flex-direction: column;
+  justify-content: space-around;
+  border-radius: 10px;
+}
+.favorito {
+  color: white;
+  background-color: rgb(101, 124, 101);
+  margin: 20px 40px 20px 40px;
+  padding: 20px
+  height: 40px;
+}

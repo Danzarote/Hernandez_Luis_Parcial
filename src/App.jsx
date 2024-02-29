@@ -10,7 +10,6 @@ function App() {
 
   return (
     <>
-      <Card />
       <Form />
     </>
   );
